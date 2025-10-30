@@ -59,6 +59,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## Contact
 
-Your Name – your.email@example.com
+Your Name – aynaashraf000@gmail.com
 
-Project Link: [https://github.com/yourusername/blockexplorer](https://github.com/yourusername/blockexplorer)
+
